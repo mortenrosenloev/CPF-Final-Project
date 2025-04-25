@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import pandas_ta as ta
-import talib
 from pylab import plt
 import seaborn as sns
 sns.set()
