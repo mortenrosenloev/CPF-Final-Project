@@ -11,7 +11,7 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA  #Principal Component Analysis
 from sklearn.feature_selection import mutual_info_classif
 from sklearn.model_selection import TimeSeriesSplit
-import shap
+#import shap
 from sklearn.ensemble import RandomForestClassifier
 from financial_data import FinancialData  # own class that imports financial data
 
